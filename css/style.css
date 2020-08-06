@@ -20,9 +20,9 @@ margin-bottom: 0.75rem;
 line-height: 1rem;
 }
 .aw-image{
-    height: 100vh;
+height: 100vh;
 background-image: url("../img/port.jpg");
-background-clip: cover;
+background-size: cover;
 background-position: center;
 }
 .aw-content{
